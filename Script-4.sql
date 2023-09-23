@@ -71,7 +71,7 @@ WHERE rental_id = 12222;
 
 CALL updateReturnDate(12222, 22);
 
-CALL updatereturnDate(11496, 155);
+CALL updateReturnDate(11496, 155);
 
 SELECT * FROM customer;
 
